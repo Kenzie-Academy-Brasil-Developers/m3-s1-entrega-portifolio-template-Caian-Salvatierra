@@ -1,0 +1,10 @@
+.image__card{
+    width: 30px;
+}
+
+.heard__card{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}

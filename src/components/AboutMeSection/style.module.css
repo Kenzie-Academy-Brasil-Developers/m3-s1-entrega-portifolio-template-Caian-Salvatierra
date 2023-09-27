@@ -1,0 +1,25 @@
+.aboutMe__container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 2.5rem;
+    padding: 1.5rem;
+    
+}
+
+.aboutMe__container > h2  {
+     min-width: 211px;
+
+} 
+
+.aboutMe__container p {
+    margin-bottom: 3rem;
+}
+
+@media (min-width:870px ){
+    .aboutMe__container{
+        flex-direction: row;
+    }
+
+
+}

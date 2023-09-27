@@ -1,0 +1,31 @@
+.section__project{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    padding: 1.5rem;
+    margin-bottom: 3.9375rem;
+
+}
+
+.project__list{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.125rem;
+    align-items: center;
+} 
+
+.project__li{
+    border: 1px solid;
+
+    width: 26rem;
+    height: 11.4375rem;
+    border-radius: 1.5625rem;
+    padding: 1rem 1rem ; 
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+    gap: 1.0625rem;
+    
+}

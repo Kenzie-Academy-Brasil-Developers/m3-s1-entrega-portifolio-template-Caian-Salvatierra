@@ -1,0 +1,26 @@
+
+.section__footer{
+    border-top: 1px solid ;
+    border-bottom:1px solid  ;
+    width: 100%;
+    height: 11.875rem;
+    padding: 1.5rem;
+    margin-bottom: 29px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+
+.section__container{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+}
+
+
+.section__img{
+ display: flex; 
+ margin-top: 1.1875rem ;
+ gap: 0.9375rem;
+}

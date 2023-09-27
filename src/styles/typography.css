@@ -1,0 +1,24 @@
+.title1{
+    font-size: clamp(1rem, 5vw, 3.25rem);
+    font-weight: 700;
+    line-height: 3.1875rem;
+}
+
+.title2{
+    font-size: clamp(0.5rem, 4vw, 2.25rem); 
+    font-weight: 600;
+    line-height: 1.6494rem;
+}
+
+.title3{
+    font-size: clamp(0.5, 3vw, 1.375rem);
+    font-weight: 700;
+    line-height: 1.5225rem;
+}
+
+.paragraph{
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.1419rem;
+}
+

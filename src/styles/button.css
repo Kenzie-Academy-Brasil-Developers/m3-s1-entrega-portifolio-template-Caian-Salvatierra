@@ -1,0 +1,35 @@
+.btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+
+    width: 130px;
+    height: 39px;
+    border-radius: 12px;
+    border: 1px;
+
+    font-size: 0.875rem;
+    font-weight: 600;
+
+
+    background-color: var(--color-primary);
+    color: var(--color-white);
+
+}
+
+.link{
+    color: var(--color-primary-Link);
+    font-size: 1rem;
+    font-weight: 700;
+    line-height: 1.875rem;
+
+}
+
+.btn:hover{
+    background-color: var(--color-primary-Hover);
+}
+
+.link:hover{
+    color: var(--color-primary-Hover);
+    text-decoration:underline;
+}
