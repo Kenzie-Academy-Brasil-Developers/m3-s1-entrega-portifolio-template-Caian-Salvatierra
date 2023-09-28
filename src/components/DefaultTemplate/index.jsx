@@ -11,4 +11,4 @@ export const DefaultTemplate = ({children}) => {
         <Footer/>
         </>
      );
-    }
+    };

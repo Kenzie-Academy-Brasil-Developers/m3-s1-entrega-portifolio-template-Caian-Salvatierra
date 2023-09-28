@@ -11,8 +11,7 @@
 
 .container__item {
     display: flex;
-    gap: 3.75rem;
-    
+    gap: 3.75rem; 
 }
 
 

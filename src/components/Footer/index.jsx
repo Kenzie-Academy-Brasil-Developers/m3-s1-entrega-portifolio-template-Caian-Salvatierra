@@ -1,7 +1,7 @@
 import style from "./style.module.css";
 import LogoWhats from "../../assets/whatsapp-icon.png";
-import LogoLinkedin from "../../assets/linkedin-icon.png"
-import LogoGitHub from "../../assets/github-icon.png"
+import LogoLinkedin from "../../assets/linkedin-icon.png";
+import LogoGitHub from "../../assets/github-icon.png";
 
 
 export const Footer = () => {

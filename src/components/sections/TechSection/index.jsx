@@ -1,6 +1,6 @@
 import { TechList } from "./TechList";
 import { technologies } from "../../../data/technologies.js";
-import style from "./style.module.css"
+import style from "./style.module.css";
 
 export const TechSection = () => {
   return (

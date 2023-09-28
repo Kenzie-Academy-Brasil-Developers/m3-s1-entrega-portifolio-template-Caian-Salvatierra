@@ -6,5 +6,5 @@ export const TechList = ({title, image}) => {
         <h3 className="title3">{title}</h3>
         
         </>
-    )
-}
+    );
+};
