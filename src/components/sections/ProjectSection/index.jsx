@@ -1,11 +1,9 @@
-
 import { ProjectList } from "./ProjectList";
 import { projects } from "../../../data/projects.js";
 import style from "./style.module.css";
 import gitIcon from "../../../assets/git-icon.png";
 
 export const ProjectSection = () => {
-  // console.log(projects)
   return (
     <>
       <div className="container">
